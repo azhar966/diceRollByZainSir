@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zain</string>
+    <string name="roll">Roll</string>
+    <string name="hello_android">Hello Android!</string>
+    <string name="hi">hi</string>
+    <string name="click_on_button_to_play">Click on button to play</string>
+</resources>
